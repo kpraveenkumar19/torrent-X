@@ -83,9 +83,3 @@ Contributions are welcome! To propose changes:
 1. Fork the repository and create a feature branch
 2. Make your changes
 3. Open a Pull Request with a clear description and examples
-
-Guidelines:
-- Keep the implementation minimal and readable
-- Prefer small, focused changes with clear commit messages
-- Document user-facing behavior in this README when adding features
-
