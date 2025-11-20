@@ -10,8 +10,8 @@ TorrentX is a [BitTorrent](https://www.bittorrent.com) client written in Java. I
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [download <torrent_file>](#download-torrent_file)
-  - [magnet_download <magnet_link>](#magnet_download-magnet_link)
+  - [download using torrent file](#download using torrent file)
+  - [download using magnet file](#download using magnet file)
   - [Limitations](#limitations)
 - [Resources](#resources)
 - [Contributing](#contributing)
@@ -38,7 +38,7 @@ download <torrent_file>
 magnet_download <magnet_link>
 ```
 
-### `download <torrent_file>`
+### `download using torrent file`
 
 Downloads a single-file torrent referenced by `<torrent_file>`.
 
@@ -52,7 +52,7 @@ Important:
 - Place the `.torrent` file inside your `~/Downloads` folder. The client reads the torrent file from `Downloads` by name, e.g. `~/Downloads/sample.torrent`.
 - The downloaded content will be saved to `~/Downloads/<name>` where `<name>` is taken from the torrent's `info.name`.
 
-### `magnet_download <magnet_link>`
+### `download using magnet file`
 
 Downloads via a magnet link. A tracker URL must be present in the magnet (the `tr` parameter), and the infohash must be provided via `xt=urn:btih:<infohash>`.
 
