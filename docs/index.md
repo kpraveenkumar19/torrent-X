@@ -1,7 +1,4 @@
-<h1>
-  <img src="assets/images/logo.png" alt="Torrent-X icon" width="36" height="36" style="vertical-align: -0.25em; margin-right: 8px;" />
-  Torrent X
-</h1>
+##Overview
 
 TorrentX is a [BitTorrent](https://www.bittorrent.com) client written in Java. It implements the core of the [BitTorrent protocol](https://www.bittorrent.org/beps/bep_0003.html), allowing downloads using a single-file torrent. It also supports [magnet links](https://en.wikipedia.org/wiki/Magnet_URI_scheme) and saves the result to your Downloads folder.
 
