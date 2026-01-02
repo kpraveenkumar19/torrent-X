@@ -3,7 +3,7 @@
   Torrent X
 </h1>
 
-TorrentX is a [BitTorrent](https://www.bittorrent.com) client written in Java. It implements the core of the [BitTorrent protocol](https://www.bittorrent.org/beps/bep_0003.html), allowing downloads using a single-file torrent. It also supports [magnet links](https://en.wikipedia.org/wiki/Magnet_URI_scheme) and saves the result to your Downloads folder.
+TorrentX is a <a href="https://www.bittorrent.com" target="_blank" rel="noopener noreferrer">BitTorrent</a> client written in Java. It implements the core of the <a href="https://www.bittorrent.org/beps/bep_0003.html" target="_blank" rel="noopener noreferrer">BitTorrent protocol</a>, allowing downloads using a single-file torrent. It also supports <a href="https://en.wikipedia.org/wiki/Magnet_URI_scheme" target="_blank" rel="noopener noreferrer">magnet links</a> and saves the result to your Downloads folder.
 
 ## Table of Contents
 
@@ -71,10 +71,10 @@ magnet_download "magnet:?xt=urn:btih:<infohash>&tr=https%3A%2F%2Ftracker.example
 
 ## Resources
 
-- [BEP 3: The BitTorrent Protocol Specification](https://www.bittorrent.org/beps/bep_0003.html)
-- [BEP 9: Extension for Peers to Send Metadata Files](https://www.bittorrent.org/beps/bep_0009.html)
-- [BEP 10: Extension Protocol](https://www.bittorrent.org/beps/bep_0010.html)
-- [Magnet URI scheme (overview)](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
+- <a href="https://www.bittorrent.org/beps/bep_0003.html" target="_blank" rel="noopener noreferrer">BEP 3: The BitTorrent Protocol Specification</a>
+- <a href="https://www.bittorrent.org/beps/bep_0009.html" target="_blank" rel="noopener noreferrer">BEP 9: Extension for Peers to Send Metadata Files</a>
+- <a href="https://www.bittorrent.org/beps/bep_0010.html" target="_blank" rel="noopener noreferrer">BEP 10: Extension Protocol</a>
+- <a href="https://en.wikipedia.org/wiki/Magnet_URI_scheme" target="_blank" rel="noopener noreferrer">Magnet URI scheme (overview)</a>
 
 ## Contributing
 
